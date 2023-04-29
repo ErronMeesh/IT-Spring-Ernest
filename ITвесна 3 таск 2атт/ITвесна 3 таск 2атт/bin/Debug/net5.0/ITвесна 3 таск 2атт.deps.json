@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ITвесна 3 таск 2атт/1.0.0": {
+        "runtime": {
+          "ITвесна 3 таск 2атт.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITвесна 3 таск 2атт/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

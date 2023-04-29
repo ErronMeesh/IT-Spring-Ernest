@@ -1,0 +1,16 @@
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\bin\Debug\net5.0\ITвесна 3 таск 2атт.exe
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\bin\Debug\net5.0\ITвесна 3 таск 2атт.deps.json
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\bin\Debug\net5.0\ITвесна 3 таск 2атт.runtimeconfig.json
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\bin\Debug\net5.0\ITвесна 3 таск 2атт.runtimeconfig.dev.json
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\bin\Debug\net5.0\ITвесна 3 таск 2атт.dll
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\bin\Debug\net5.0\ref\ITвесна 3 таск 2атт.dll
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\bin\Debug\net5.0\ITвесна 3 таск 2атт.pdb
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\obj\Debug\net5.0\ITвесна 3 таск 2атт.csprojAssemblyReference.cache
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\obj\Debug\net5.0\ITвесна 3 таск 2атт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\obj\Debug\net5.0\ITвесна 3 таск 2атт.AssemblyInfoInputs.cache
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\obj\Debug\net5.0\ITвесна 3 таск 2атт.AssemblyInfo.cs
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\obj\Debug\net5.0\ITвесна 3 таск 2атт.csproj.CoreCompileInputs.cache
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\obj\Debug\net5.0\ITвесна 3 таск 2атт.dll
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\obj\Debug\net5.0\ref\ITвесна 3 таск 2атт.dll
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\obj\Debug\net5.0\ITвесна 3 таск 2атт.pdb
+C:\Users\abrak\source\repos\ITвесна 3 таск 2атт\ITвесна 3 таск 2атт\obj\Debug\net5.0\ITвесна 3 таск 2атт.genruntimeconfig.cache

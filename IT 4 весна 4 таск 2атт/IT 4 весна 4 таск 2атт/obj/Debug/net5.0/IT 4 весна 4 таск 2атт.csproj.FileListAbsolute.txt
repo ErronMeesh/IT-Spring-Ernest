@@ -1,0 +1,16 @@
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\bin\Debug\net5.0\IT 4 весна 4 таск 2атт.exe
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\bin\Debug\net5.0\IT 4 весна 4 таск 2атт.deps.json
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\bin\Debug\net5.0\IT 4 весна 4 таск 2атт.runtimeconfig.json
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\bin\Debug\net5.0\IT 4 весна 4 таск 2атт.runtimeconfig.dev.json
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\bin\Debug\net5.0\IT 4 весна 4 таск 2атт.dll
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\bin\Debug\net5.0\ref\IT 4 весна 4 таск 2атт.dll
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\bin\Debug\net5.0\IT 4 весна 4 таск 2атт.pdb
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\obj\Debug\net5.0\IT 4 весна 4 таск 2атт.csprojAssemblyReference.cache
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\obj\Debug\net5.0\IT 4 весна 4 таск 2атт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\obj\Debug\net5.0\IT 4 весна 4 таск 2атт.AssemblyInfoInputs.cache
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\obj\Debug\net5.0\IT 4 весна 4 таск 2атт.AssemblyInfo.cs
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\obj\Debug\net5.0\IT 4 весна 4 таск 2атт.csproj.CoreCompileInputs.cache
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\obj\Debug\net5.0\IT 4 весна 4 таск 2атт.dll
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\obj\Debug\net5.0\ref\IT 4 весна 4 таск 2атт.dll
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\obj\Debug\net5.0\IT 4 весна 4 таск 2атт.pdb
+C:\Users\abrak\source\repos\IT 4 весна 4 таск 2атт\IT 4 весна 4 таск 2атт\obj\Debug\net5.0\IT 4 весна 4 таск 2атт.genruntimeconfig.cache
