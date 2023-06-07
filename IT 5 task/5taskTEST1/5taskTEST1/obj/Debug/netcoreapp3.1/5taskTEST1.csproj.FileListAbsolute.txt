@@ -1,0 +1,13 @@
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\bin\Debug\netcoreapp3.1\5taskTEST1.exe
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\bin\Debug\netcoreapp3.1\5taskTEST1.deps.json
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\bin\Debug\netcoreapp3.1\5taskTEST1.runtimeconfig.json
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\bin\Debug\netcoreapp3.1\5taskTEST1.runtimeconfig.dev.json
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\bin\Debug\netcoreapp3.1\5taskTEST1.dll
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\bin\Debug\netcoreapp3.1\5taskTEST1.pdb
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\obj\Debug\netcoreapp3.1\5taskTEST1.csprojAssemblyReference.cache
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\obj\Debug\netcoreapp3.1\5taskTEST1.AssemblyInfoInputs.cache
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\obj\Debug\netcoreapp3.1\5taskTEST1.AssemblyInfo.cs
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\obj\Debug\netcoreapp3.1\5taskTEST1.csproj.CoreCompileInputs.cache
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\obj\Debug\netcoreapp3.1\5taskTEST1.dll
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\obj\Debug\netcoreapp3.1\5taskTEST1.pdb
+C:\Users\abrak\source\repos\5taskTEST1\5taskTEST1\obj\Debug\netcoreapp3.1\5taskTEST1.genruntimeconfig.cache

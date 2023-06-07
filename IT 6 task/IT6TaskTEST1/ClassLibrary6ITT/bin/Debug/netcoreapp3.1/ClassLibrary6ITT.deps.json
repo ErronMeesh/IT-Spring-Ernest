@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClassLibrary6ITT/1.0.0": {
+        "dependencies": {
+          "IT6TaskTEST1": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibrary6ITT.dll": {}
+        }
+      },
+      "IT6TaskTEST1/1.0.0": {
+        "runtime": {
+          "IT6TaskTEST1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary6ITT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IT6TaskTEST1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

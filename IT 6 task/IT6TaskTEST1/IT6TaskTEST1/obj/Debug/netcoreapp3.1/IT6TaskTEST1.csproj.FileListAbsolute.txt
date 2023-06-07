@@ -1,0 +1,13 @@
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\bin\Debug\netcoreapp3.1\IT6TaskTEST1.exe
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\bin\Debug\netcoreapp3.1\IT6TaskTEST1.deps.json
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\bin\Debug\netcoreapp3.1\IT6TaskTEST1.runtimeconfig.json
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\bin\Debug\netcoreapp3.1\IT6TaskTEST1.runtimeconfig.dev.json
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\bin\Debug\netcoreapp3.1\IT6TaskTEST1.dll
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\bin\Debug\netcoreapp3.1\IT6TaskTEST1.pdb
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\obj\Debug\netcoreapp3.1\IT6TaskTEST1.csprojAssemblyReference.cache
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\obj\Debug\netcoreapp3.1\IT6TaskTEST1.AssemblyInfoInputs.cache
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\obj\Debug\netcoreapp3.1\IT6TaskTEST1.AssemblyInfo.cs
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\obj\Debug\netcoreapp3.1\IT6TaskTEST1.csproj.CoreCompileInputs.cache
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\obj\Debug\netcoreapp3.1\IT6TaskTEST1.dll
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\obj\Debug\netcoreapp3.1\IT6TaskTEST1.pdb
+C:\Users\abrak\source\repos\IT6TaskTEST1\IT6TaskTEST1\obj\Debug\netcoreapp3.1\IT6TaskTEST1.genruntimeconfig.cache
