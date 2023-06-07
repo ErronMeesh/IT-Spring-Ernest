@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Windows.Forms;
 
-// Interface definition
+// Interface 
 public interface IEntrant
 {
     string Name { get; set; }
@@ -12,7 +12,7 @@ public interface IEntrant
     void PayTuition();
 }
 
-// Abstract class definition
+// Abstract class 
 public abstract class Student : IEntrant
 {
     public string Name { get; set; }
@@ -33,7 +33,7 @@ public abstract class Student : IEntrant
     }
 }
 
-// Main program
+
 class Program
 {
     [STAThread]
@@ -44,7 +44,7 @@ class Program
     }
 }
 
-// Windows Form class
+
 public class MainForm : Form
 {
     private ComboBox classComboBox;
@@ -75,8 +75,8 @@ public class MainForm : Form
     }
 
     private void LoadClassLibrary()
-    {
-        string pathToLibrary = "C:/Users/abrak/source/repos/IT6TaskTEST1/ClassLibrary6ITT/bin/Debug/netcoreapp3.1/ClassLibrary6ITT.dll"; // Replace with the actual path to your class library
+    {// !!!  Замените на ваш путь к dll  !!!
+        string pathToLibrary = "C:/Users/abrak/source/repos/IT6TaskTEST1/ClassLibrary6ITT/bin/Debug/netcoreapp3.1/ClassLibrary6ITT.dll"; // !!!Замените на ваш путь к dll!!!
 
         Assembly assembly = Assembly.LoadFrom(pathToLibrary);
 
@@ -121,7 +121,7 @@ public class MainForm : Form
             }
         }
 
-        // Add the Execute button dynamically
+        
         Button executeButton = new Button();
         executeButton.Text = "Execute";
         executeButton.Location = new System.Drawing.Point(150, yPosition);
