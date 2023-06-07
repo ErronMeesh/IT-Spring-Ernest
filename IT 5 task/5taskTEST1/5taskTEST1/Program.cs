@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// Interface definition
+// Interface 
 public interface Entrant
 {
     string Name { get; set; }
@@ -9,7 +9,7 @@ public interface Entrant
     void PayTuition();
 }
 
-// Abstract class definition
+// Abstract class 
 public abstract class Student : Entrant
 {
     public string Name { get; set; }
@@ -30,7 +30,6 @@ public abstract class Student : Entrant
     }
 }
 
-// Class definition
 public class PartTimeStudent : Student
 {
     public string Course { get; set; }
@@ -57,15 +56,15 @@ public class PartTimeStudent : Student
     }
 }
 
-// Main program
+
 class Program
 {
     static void Main(string[] args)
     {
-        // Create a list of Entrant objects
+        
         List<Entrant> entrants = new List<Entrant>();
 
-        // Create instances of PartTimeStudent and add them to the list
+        
         PartTimeStudent student1 = new PartTimeStudent()
         {
             Name = "John Doe",
@@ -88,7 +87,7 @@ class Program
 
         entrants.Add(student2);
 
-        // Iterate over the list and perform actions on the entrants
+       
         foreach (Entrant entrant in entrants)
         {
             Console.WriteLine("Name: " + entrant.Name);
